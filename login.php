@@ -20,6 +20,7 @@
             Giriş Yap
         </div>
         <div class="card-body">
+            <div class="alert alert-danger">Hatalı şifre</div>
             <form action="" method="post">
                 <label for="username" class="text-success">Kullanıcı Adınız</label>
                 <input type="text" name="username" class="form-control">
